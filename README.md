@@ -1,2 +1,3 @@
-# Neo-Clock
-Made With HTML, CSS and JS
+Neo Clock
+
+made with HTML, CSS and JS
